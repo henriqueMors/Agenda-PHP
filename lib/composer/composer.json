@@ -1,0 +1,16 @@
+{
+    "name": "wef/calendar",
+    "description": "agendamentos com php e js",
+    "authors": [
+        {
+            "name": "Henrique Mors"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Classes\\": "../../../class",
+            "Models\\": "../../../model"
+        }
+    }
+}
